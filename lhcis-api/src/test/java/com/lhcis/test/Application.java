@@ -1,4 +1,4 @@
-package com.lhcis.demo;
+package com.lhcis.test;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.SpringApplication;

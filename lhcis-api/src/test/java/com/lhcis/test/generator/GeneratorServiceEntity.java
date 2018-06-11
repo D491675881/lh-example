@@ -1,4 +1,4 @@
-package com.lhcis.demo.generator;
+package com.lhcis.test.generator;
 
 import com.baomidou.mybatisplus.generator.AutoGenerator;
 import com.baomidou.mybatisplus.generator.config.DataSourceConfig;
@@ -20,7 +20,7 @@ public class GeneratorServiceEntity {
 
     @Test
     public void generateCode() {
-        String packageName = "com.lhcis.demo";
+        String packageName = "com.lhcis.test";
         boolean serviceNameStartWithI = false;//user -> UserService, 设置成true: user -> IUserService
         generateByTables(serviceNameStartWithI, packageName, "sys_user");
 //        generateByTables(serviceNameStartWithI, packageName, "user", "role");

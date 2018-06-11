@@ -1,10 +1,9 @@
-package com.lhcis.demo.ctrl.base;
+package com.lhcis.test.ctrl.base;
 
 import com.alibaba.fastjson.JSONObject;
 import com.jayway.restassured.RestAssured;
 import org.hamcrest.Matcher;
 import org.junit.Before;
-import org.mockito.internal.matchers.Equals;
 import org.springframework.beans.factory.annotation.Value;
 
 import java.util.UUID;

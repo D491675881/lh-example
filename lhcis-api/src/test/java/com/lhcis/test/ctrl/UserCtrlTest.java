@@ -1,8 +1,8 @@
-package com.lhcis.demo.ctrl;
+package com.lhcis.test.ctrl;
 
 import com.alibaba.fastjson.JSONObject;
-import com.lhcis.demo.Application;
-import com.lhcis.demo.ctrl.base.TestBase;
+import com.lhcis.test.Application;
+import com.lhcis.test.ctrl.base.TestBase;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;

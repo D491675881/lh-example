@@ -1,4 +1,4 @@
-package com.lhcis.demo;
+package com.lhcis.test;
 
 import com.arronlong.httpclientutil.*;
 import com.arronlong.httpclientutil.builder.HCB;
