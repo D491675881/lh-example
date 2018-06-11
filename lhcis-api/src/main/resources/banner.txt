@@ -1,0 +1,21 @@
+${AnsiColor.BRIGHT_BLUE}
+       DDDDDG
+     DDDDDDDDDD
+   DDDD  DD   DDD
+  :DDDD  DD    GDE
+  DG DD  DD     DD
+ DD  DD  DD      DD
+ D   DD  DDDDD    D
+ D   DD  DDDDDD   D
+GD   DD  DD  DD   DD
+DD   DD  DD  DD   DD
+ED   DD  DD  DD   DD
+ D   DD  DD  DD   D
+ DD  DD  DD  DD  DD
+ DD  DD  DD  DD  DD
+  DD DD  DD  DD DD
+   DDDD  DD  DDDD
+    DDDDDDD  DDD
+     DDDDDDDDDD
+        EDDD
+
